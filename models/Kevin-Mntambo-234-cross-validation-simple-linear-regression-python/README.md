@@ -1,0 +1,2 @@
+Cross-validation & Simple Linear Regression (234)
+For raw project instructions see: https://raw.githubusercontent.com/Umuzi-org/tech-department/master/content/projects/data-science-specific/cross-validation-and-simple-linear-regression/_index.md
