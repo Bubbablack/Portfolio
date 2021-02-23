@@ -10,6 +10,7 @@ For raw project instructions see: http://syllabus.africacode.net/projects/data-s
 
 
 ### Exploritory analysis
+<img src="../images/matrix.png" width="350" title="hover text">
 ![alt text](../images/matrix.png)
 
 
