@@ -1,4 +1,4 @@
-Multivariate Linear Regression (233) Predict Employee Salary
+Multivariate Linear Regression (233)
 
 language = Python 3.0.8
 
