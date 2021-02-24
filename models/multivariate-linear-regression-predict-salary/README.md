@@ -21,10 +21,22 @@ Feature Selection is to select those independent which contribute most to your d
 1. correlation with salary must be higher than .5 .<br>
 ![](https://lh3.googleusercontent.com/tpbZfnEAchXFFiNcKZK2mRVZDh92Aj_lXIMAzsoCt_4-ld5SrKo6Ak-748-tHS2hLU27-lBYsd9WVJr22LPGqBPMWJsQT8GyU0cwitt44F9frsTEb9TyC893k0x42w7GmuYUlF137A=w2400)
 
+This correlation matrix shows salary to have a strong to medium correlation with yearsworked, yearsrank , position, market,male and field. The correlation matrix shows correlations between years worked, years rank and position.
+
 2. P value based on correlation must be below .05 <br>
  ![](https://lh3.googleusercontent.com/0QmGEojMJu0L1kcxTnxvUf8P16aiuOYDdfqSsA7wgfWHUbgNX5WZDKAU0I3QGIe9JJeFmSpvkCdIMSbMJ6HKsDpnnjnZl1bCSjCyFTCB1g2l0BOTTE1E41zfXg7NUAFybvynaoumTw=w2400)
+
+ A p-value is a measure of the probability that an observed difference could have occurred just by random chance. A p-value less than 0.05 is considered strong evidence against the null hypothesis since there is less than a 5% probability that the null hypothesis is correct and the results are random.
+
+All the P-values of the correlation coefficients are well below 0.5 therefore we can reject the null hypothesis and and assume that these correlation coefficients are not by chance.
+
 3. and the variance inflation factor (VIF) must be below 10 <br>
  ![VIF](https://lh3.googleusercontent.com/7blBr7J4B3Z-PVHwo9MbycuklR-N7wInnyYKGUq56MAO9pGitAivT_iC5sxVspOLqL5isl999I1PfrtTGmtED_-FiW476XSw_T56O75h-6VieI_Jz9XBG57fEH495v_kFKy0fdHSAQ=w2400 "VIF")
+
+
+Variance inflation factor (VIF), measures multicollinearity,generally a VIF score of 10 and higher might cause problems for the model as the feature might be too correlated with other features, this might in turn cause the model to be too sensitive to certain changes as there will be multiple features measuring the same phenomenon.
+
+Therefore yearsworked might not be the best candidate as it has too high of correlation with the other features.
 
 Therefore according to our criteria These features were selected to train the model: Field,yearsrank, position,market and male
 
@@ -33,7 +45,7 @@ Therefore according to our criteria These features were selected to train the mo
 
  ![](https://lh3.googleusercontent.com/0Nc7ESYmfJqeENnBkR5kNOR5GFEUO6h8ciulo2blbX8PNCa-sGRFK6P1r4zmYsKULCHkLI5eiDPyrjtLMHSpTO25L1PxoxJz7xhqvUh3kRNlG9ptSxeO0q51y9-b09Q2ThWd1RkPXQ=w2400)
 
-Field_engineering and Field engineering are not statistically significant. they have P values over 0.5.
+Field_engineering and Field engineering are not statistically significant. they have P values over 0.5.R-squared tells us that 83% of variance in employee salaries is accounted for b y this model.
 
 The difference/variance  in  the RMSE is lower than 5%(2.4%),therefore we can conclude that the extent of overfitting is small enough for us to maintain confidence in the may model to perform well in real world applications.
 
