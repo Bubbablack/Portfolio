@@ -11,12 +11,12 @@ For raw project instructions see: http://syllabus.africacode.net/projects/data-s
 
 ### Exploritory analysis
 
-1. correlation with salary must be higher than .5 .
+1. correlation with salary must be higher than .5 .<br>
 ![](https://lh3.googleusercontent.com/tpbZfnEAchXFFiNcKZK2mRVZDh92Aj_lXIMAzsoCt_4-ld5SrKo6Ak-748-tHS2hLU27-lBYsd9WVJr22LPGqBPMWJsQT8GyU0cwitt44F9frsTEb9TyC893k0x42w7GmuYUlF137A=w2400)
 
-2. P value based on correlation must be below .05
+2. P value based on correlation must be below .05 <br>
  ![](https://lh3.googleusercontent.com/0QmGEojMJu0L1kcxTnxvUf8P16aiuOYDdfqSsA7wgfWHUbgNX5WZDKAU0I3QGIe9JJeFmSpvkCdIMSbMJ6HKsDpnnjnZl1bCSjCyFTCB1g2l0BOTTE1E41zfXg7NUAFybvynaoumTw=w2400)
-3. and the variance inflation factor (VIF) must be below 10
+3. and the variance inflation factor (VIF) must be below 10 <br>
  ![VIF](https://lh3.googleusercontent.com/7blBr7J4B3Z-PVHwo9MbycuklR-N7wInnyYKGUq56MAO9pGitAivT_iC5sxVspOLqL5isl999I1PfrtTGmtED_-FiW476XSw_T56O75h-6VieI_Jz9XBG57fEH495v_kFKy0fdHSAQ=w2400 "VIF")
 
 ### feature selection
