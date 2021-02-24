@@ -9,7 +9,7 @@ This project is part of my [Umuzi](https://www.umuzi.org/) data science bootcamp
 For raw project instructions see: http://syllabus.africacode.net/projects/data-science-specific/multivariate-linear-regression/
 
 
-### Exploritory analysis
+### feature selection
 
 1. correlation with salary must be higher than .5 .<br>
 ![](https://lh3.googleusercontent.com/tpbZfnEAchXFFiNcKZK2mRVZDh92Aj_lXIMAzsoCt_4-ld5SrKo6Ak-748-tHS2hLU27-lBYsd9WVJr22LPGqBPMWJsQT8GyU0cwitt44F9frsTEb9TyC893k0x42w7GmuYUlF137A=w2400)
@@ -19,16 +19,10 @@ For raw project instructions see: http://syllabus.africacode.net/projects/data-s
 3. and the variance inflation factor (VIF) must be below 10 <br>
  ![VIF](https://lh3.googleusercontent.com/7blBr7J4B3Z-PVHwo9MbycuklR-N7wInnyYKGUq56MAO9pGitAivT_iC5sxVspOLqL5isl999I1PfrtTGmtED_-FiW476XSw_T56O75h-6VieI_Jz9XBG57fEH495v_kFKy0fdHSAQ=w2400 "VIF")
 
-### feature selection
 
 
 In order to select features the following criteria will be used:
 
-<ul>
-<li>correlation with salary must be higher than .5 .</li>
-<li>P value based on correlation must be below .05</li>
-<li>and the variance inflation factor (VIF) must be below 10.</li>
-</ul>
 Therefore, all other feature columns are dropped except for yearsrank ,position, market ,male and field since according to our criteria these are the best candidates to fit the model with
 
 chosen features 'Field','yearsrank', 'position','market','male'
