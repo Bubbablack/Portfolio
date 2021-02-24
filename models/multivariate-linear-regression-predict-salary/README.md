@@ -9,7 +9,7 @@ This project is part of my [Umuzi](https://www.umuzi.org/) data science bootcamp
 For raw project instructions see: http://syllabus.africacode.net/projects/data-science-specific/multivariate-linear-regression/
 
 
-### feature selection
+## feature selection
 
 Independent variables:
 Depended variable: 
@@ -29,7 +29,7 @@ Feature Selection is to select those independent which contribute most to your d
 Therefore according to our criteria These features were selected to train the model: Field,yearsrank, position,market and male
 
 
-### model evaluation
+## model evaluation
 
  ![](https://lh3.googleusercontent.com/0Nc7ESYmfJqeENnBkR5kNOR5GFEUO6h8ciulo2blbX8PNCa-sGRFK6P1r4zmYsKULCHkLI5eiDPyrjtLMHSpTO25L1PxoxJz7xhqvUh3kRNlG9ptSxeO0q51y9-b09Q2ThWd1RkPXQ=w2400)
 
@@ -42,7 +42,7 @@ The difference/variance  in  the RMSE is lower than 5%(2.4%),therefore we can co
 ##### residue plots
  ![](https://lh3.googleusercontent.com/jil7p3NubKnIFmyTFfx0u-23OWxmeojAK4MDzgp3brefM8E8VgIGKtcayXNxsPGpMwrtP86BtneUMucQpNg97zOni3VccJfiP-jUX6Hi58YoLVTJ5ya_P4JC-J8Ii9iUiNqiRBjcyQ=w2400) ![](https://lh3.googleusercontent.com/V2kSiHO5dBA_1g9zBoL330QKz3ze0zFC9mit1dn--6LoESyrPXVOJ8iJpS_e7Ll1aTKhexjXerxkHvQYS8CPuzUzBsEwjPwaVDFAxBRAD_6Iwdz0_u0JMkcsZcG4EErO-2i67S5clg=w2400)
 
-### conclusion
+## conclusion
 
 
 Overall this is a good model as it accounts for 83% of the variation in employee salary. 
