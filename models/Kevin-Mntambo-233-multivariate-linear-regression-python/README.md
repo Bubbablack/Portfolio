@@ -11,7 +11,7 @@ For raw project instructions see: http://syllabus.africacode.net/projects/data-s
 
 ### Exploritory analysis
 <img src="../images/matrix.png" width="350" title="hover text">
-![](https://photos.app.goo.gl/RABCyatoShGpHixe6)
+![](https://lh3.googleusercontent.com/WiLWXHbwUhAyIJSa0WNLGXN8hjmyylUvXqIlMkuN1h6kmqR28cgcMNr71KybpjOCpt8fOp8Qxh-0jmKPzVYj1l8BosCcxItm5ZanPNdcLXsQWuXDKEP1Borx_INsuHSFvOn7_Iv9dA=w2400)
 
 
 ### feature selection
