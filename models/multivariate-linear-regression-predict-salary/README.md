@@ -37,16 +37,12 @@ Field_engineering and Field engineering are not statistically significant. they 
 
 The difference/variance  in  the RMSE is lower than 5%(2.4%),therefore we can conclude that the extent of overfitting is small enough for us to maintain confidence in the may model to perform well in real world applications.
 
-Overall this is a good model , accounts for 83% of the variation in employee salary, it performs slightly worse on test data , however not too bad , to be ruled off as overfitting,one issue is might be that two of my features are statistically insignificant,maybe an area of improvement would be to find a way to deal or remove these features without totally losing the information provided by the field column.
+
 
 ##### residue plots
- ![](https://lh3.googleusercontent.com/jil7p3NubKnIFmyTFfx0u-23OWxmeojAK4MDzgp3brefM8E8VgIGKtcayXNxsPGpMwrtP86BtneUMucQpNg97zOni3VccJfiP-jUX6Hi58YoLVTJ5ya_P4JC-J8Ii9iUiNqiRBjcyQ=w2400) ![](https://lh3.googleusercontent.com/8g5kufrYRxu2WhGn8xwh-qUJkbv9iqOwGgZrVvJCbGbsht4ye4Pq9_6tG-9Ih9Qj9GyH-3dJO-ZLJy_13xJCNkFlv2ap3ZXvugunYeUZj3oe9ERwWesvRQa1bPI39i9nKC-VWbFMWg=w2400)
+ ![](https://lh3.googleusercontent.com/jil7p3NubKnIFmyTFfx0u-23OWxmeojAK4MDzgp3brefM8E8VgIGKtcayXNxsPGpMwrtP86BtneUMucQpNg97zOni3VccJfiP-jUX6Hi58YoLVTJ5ya_P4JC-J8Ii9iUiNqiRBjcyQ=w2400) ![](https://lh3.googleusercontent.com/V2kSiHO5dBA_1g9zBoL330QKz3ze0zFC9mit1dn--6LoESyrPXVOJ8iJpS_e7Ll1aTKhexjXerxkHvQYS8CPuzUzBsEwjPwaVDFAxBRAD_6Iwdz0_u0JMkcsZcG4EErO-2i67S5clg=w2400)
 
 ### conclusion
 
 
-
-
-
-
-
+Overall this is a good model as it accounts for 83% of the variation in employee salary. 
