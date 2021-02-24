@@ -11,8 +11,6 @@ For raw project instructions see: http://syllabus.africacode.net/projects/data-s
 
 ### Exploritory analysis
 
-<a href="https://lh3.googleusercontent.com/tpbZfnEAchXFFiNcKZK2mRVZDh92Aj_lXIMAzsoCt_4-ld5SrKo6Ak-748-tHS2hLU27-lBYsd9WVJr22LPGqBPMWJsQT8GyU0cwitt44F9frsTEb9TyC893k0x42w7GmuYUlF137A=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/tpbZfnEAchXFFiNcKZK2mRVZDh92Aj_lXIMAzsoCt_4-ld5SrKo6Ak-748-tHS2hLU27-lBYsd9WVJr22LPGqBPMWJsQT8GyU0cwitt44F9frsTEb9TyC893k0x42w7GmuYUlF137A=w600-h315-p-k" /> </a>
-
 ![](https://lh3.googleusercontent.com/tpbZfnEAchXFFiNcKZK2mRVZDh92Aj_lXIMAzsoCt_4-ld5SrKo6Ak-748-tHS2hLU27-lBYsd9WVJr22LPGqBPMWJsQT8GyU0cwitt44F9frsTEb9TyC893k0x42w7GmuYUlF137A=w2400)
 
 
