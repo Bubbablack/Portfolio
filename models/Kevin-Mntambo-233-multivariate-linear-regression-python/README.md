@@ -1,6 +1,6 @@
 Multivariate Linear Regression (233) Predict Employee Salary
 
-language = Python 3.0.8
+Python 3.0.8
 
 ## Project Summary
 
@@ -18,10 +18,11 @@ For raw project instructions see: http://syllabus.africacode.net/projects/data-s
 
 
 In order to select features the following criteria will be used:
-
-correlation with salary must be higher than .5 .
-P value based on correlation must be below .05
-and the variance inflation factor (VIF) must be below 10.
+<ul>
+<li>correlation with salary must be higher than .5 .</li>
+<li>P value based on correlation must be below .05</li>
+<li>and the variance inflation factor (VIF) must be below 10.</li>
+</ul>
 
 Therefore, all other feature columns are dropped except for yearsrank ,position, market ,male and field since according to our criteria these are the best candidates to fit the model with
 
