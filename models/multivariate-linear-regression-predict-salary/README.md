@@ -10,7 +10,7 @@ This project is part of my [Umuzi](https://www.umuzi.org/) data science bootcamp
 
 -[feature selection](#feature-selection)
 -[model evaluation](#model-evaluation)
--[residue plots](#residue -plots)
+-[conclusion](#conclusion)
 
 
 For raw project instructions see: http://syllabus.africacode.net/projects/data-science-specific/multivariate-linear-regression/
