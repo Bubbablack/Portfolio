@@ -4,9 +4,9 @@ Python 3.0.8
 
 ## Project Summary
 
-This project is part of my [Umuzi](https://www.umuzi.org/) data science bootcamp I  had attended from March 2020 until February 2021, The main aim of  the task was to use multivarient linear regression to predict the salary of individuals using dependent  variables in the data set like years of experiance ,field of work and others.
+This project is part of my [Umuzi](https://www.umuzi.org/) data science bootcamp I  had attended from March 2020 until February 2021, The main aim of  the task was to use multivarient linear regression to predict the salary of individuals using dependent  variables in the data set like years of experiance ,field of work and others.Below find the key findings of the project.
 
-##### key section
+##### key sections
 
 * [feature selection](#feature-selection)
 * [model evaluation](#model-evaluation)
