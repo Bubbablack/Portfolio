@@ -54,6 +54,10 @@ The difference/variance  in  the RMSE is lower than 5%(2.4%),therefore we can co
 ##### residue plots
  ![](https://lh3.googleusercontent.com/jil7p3NubKnIFmyTFfx0u-23OWxmeojAK4MDzgp3brefM8E8VgIGKtcayXNxsPGpMwrtP86BtneUMucQpNg97zOni3VccJfiP-jUX6Hi58YoLVTJ5ya_P4JC-J8Ii9iUiNqiRBjcyQ=w2400) ![](https://lh3.googleusercontent.com/V2kSiHO5dBA_1g9zBoL330QKz3ze0zFC9mit1dn--6LoESyrPXVOJ8iJpS_e7Ll1aTKhexjXerxkHvQYS8CPuzUzBsEwjPwaVDFAxBRAD_6Iwdz0_u0JMkcsZcG4EErO-2i67S5clg=w2400)
 
+
+The line of best fit for the fitted values lies below the actual values , this means that the fitted values tend to be smaller than the actual values.
+The model seems to have more variance in its predictions on the test date, it also seems to do better for the lower to mid predictions , but does increasingly badly for the higher the predictions.This might indicate overfitting.
+
 ## conclusion
 
 
