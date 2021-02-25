@@ -18,10 +18,9 @@ For raw project instructions see: http://syllabus.africacode.net/projects/data-s
 
 ## feature selection
 
-Independent variables:
-Depended variable: 
+![](https://lh3.googleusercontent.com/Uam0wOCdoT9BnewYWyUD7R_o2V0LqinlRtTyFIhxgMZAjOp-20Di2PW4oM4vADSzjNp9D02inYBT5zSstzUTRTjWtzcb1sXVZBv_e_wnCQ2pq8OXtWqPF5ygNGOPaWpAF1ZiM5ERBQ=w2400)
 
-Feature Selection is to select those independent which contribute most to your dependent variables outcome.
+Salary is  the dependent variable we want to predict , which means all the other columns are potential independent variable . Feature Selection has to be performed in order to select those variables ,which contribute the most to the dependent variables outcome.
 
 <b>Criteria</b>
 
