@@ -39,7 +39,7 @@ Variance inflation factor (VIF), measures multicollinearity,generally a VIF scor
 
  ![](https://lh3.googleusercontent.com/0Nc7ESYmfJqeENnBkR5kNOR5GFEUO6h8ciulo2blbX8PNCa-sGRFK6P1r4zmYsKULCHkLI5eiDPyrjtLMHSpTO25L1PxoxJz7xhqvUh3kRNlG9ptSxeO0q51y9-b09Q2ThWd1RkPXQ=w2400)
 
-Field_engineering and Field engineering are not statistically significant. they have P values over 0.5.R-squared tells us that 83% of variance in employee salaries is accounted for b y this model.The difference/variance  in  the RMSE is lower than 5%(2.4%),therefore we can conclude that the extent of overfitting is small enough for us to maintain confidence in the may model to perform well in real world applications.
+Field_engineering and Field engineering are not statistically significant. they have P values over 0.5.R-squared tells us that 83% of variance in employee salaries is accounted for b y this model.The difference/variance  in  the RMSE is lower than 5% (2.4%),therefore we can conclude that the extent of overfitting is small enough for us to maintain confidence in the may model to perform well in real world applications.
 
 
 
