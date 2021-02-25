@@ -8,9 +8,9 @@ This project is part of my [Umuzi](https://www.umuzi.org/) data science bootcamp
 
 ##### key section
 
-..*[feature selection](#feature-selection)
-..*[model evaluation](#model-evaluation)
-..*[conclusion](#conclusion)
+* [feature selection](#feature-selection)
+* [model evaluation](#model-evaluation)
+* [conclusion](#conclusion)
 
 
 For raw project instructions see: http://syllabus.africacode.net/projects/data-science-specific/multivariate-linear-regression/
