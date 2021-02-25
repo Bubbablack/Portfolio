@@ -24,17 +24,17 @@ Salary is  the dependent variable we want to predict , which means all the other
 
 <b>Criteria</b>
 
-1. correlation with salary must be higher than .5 .<br>
+1. Correlation with salary must be higher than .5<br>
 ![](https://lh3.googleusercontent.com/tpbZfnEAchXFFiNcKZK2mRVZDh92Aj_lXIMAzsoCt_4-ld5SrKo6Ak-748-tHS2hLU27-lBYsd9WVJr22LPGqBPMWJsQT8GyU0cwitt44F9frsTEb9TyC893k0x42w7GmuYUlF137A=w2400)
 
 This correlation matrix shows salary to have a strong to medium correlation with yearsworked, yearsrank , position, market,male and field. The correlation matrix shows correlations between years worked, years rank and position.
 
-2. P value based on correlation must be below .05 <br>
+2.The  P value based on correlation must be below .05 <br>
  ![](https://lh3.googleusercontent.com/0QmGEojMJu0L1kcxTnxvUf8P16aiuOYDdfqSsA7wgfWHUbgNX5WZDKAU0I3QGIe9JJeFmSpvkCdIMSbMJ6HKsDpnnjnZl1bCSjCyFTCB1g2l0BOTTE1E41zfXg7NUAFybvynaoumTw=w2400)
 
  A p-value is a measure of the probability that an observed difference could have occurred just by random chance. A p-value less than 0.05 is considered strong evidence against the null hypothesis since there is less than a 5% probability that the null hypothesis is correct and the results are random.All the P-values of the correlation coefficients are well below 0.5 therefore we can reject the null hypothesis and and assume that these correlation coefficients are not by chance.
 
-3. and the variance inflation factor (VIF) must be below 10 <br>
+3. The variance inflation factor (VIF) must be below 10 <br>
  ![VIF](https://lh3.googleusercontent.com/7blBr7J4B3Z-PVHwo9MbycuklR-N7wInnyYKGUq56MAO9pGitAivT_iC5sxVspOLqL5isl999I1PfrtTGmtED_-FiW476XSw_T56O75h-6VieI_Jz9XBG57fEH495v_kFKy0fdHSAQ=w2400 "VIF")
 
 
