@@ -53,4 +53,4 @@ The model seems to have more variance in its predictions on the test date, it al
 ## conclusion
 
 
-Overall this is a good model as it accounts for 83% of the variation in employee salary. 
+Overall this is a good model as it accounts for 83% of the variation in employee salary. However one point of improvement would be using other models on this data set and comparing which one works best.
