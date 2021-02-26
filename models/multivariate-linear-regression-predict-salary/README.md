@@ -1,5 +1,6 @@
 # Multivariate Linear Regression (233) Predict employee salary
 
+https://img.shields.io/badge/pthon-3.0.8-blue 
 Python 3.0.8
 
 ## Project Summary
