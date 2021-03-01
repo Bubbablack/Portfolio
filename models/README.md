@@ -1,7 +1,7 @@
 
 # Modeling projects
 
-###  [Simple Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/models/Kevin-Mntambo-234-cross-validation-simple-linear-regression-python)
+####  [Simple Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/models/Kevin-Mntambo-234-cross-validation-simple-linear-regression-python)
 <details>
   <summary><b>Key concepts covered</b></summary>
   <ul>
@@ -12,7 +12,7 @@
   </ul>
 </details>
 
-###  [Multivariate Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/models/multivariate-linear-regression-predict-salary)
+####  [Multivariate Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/models/multivariate-linear-regression-predict-salary)
 <details>
 <summary><b> Key concepts covered</b></summary>
   <ul>
@@ -25,7 +25,7 @@
   </ul>
 </details>
 
-###  [Logistic Regression Predict Credit Card Aprovals](https://github.com/Bubbablack/Portfolio/tree/main/models/Kevin-Mntambo-252-predict-credit-card-approvals-python)
+####  [Logistic Regression Predict Credit Card Aprovals](https://github.com/Bubbablack/Portfolio/tree/main/models/Kevin-Mntambo-252-predict-credit-card-approvals-python)
 <details>
   <summary><b> Key concepts covered</b></summary>
   <ul>
