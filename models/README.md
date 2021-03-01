@@ -1,7 +1,7 @@
 
 # Modeling projects
 
-###  [Simple Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/models/multivariate-linear-regression-predict-salary)<br>
+###  [Simple Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/models/multivariate-linear-regression-predict-salary)
 <details>
 <summary> Key concepts covered</summary>
   <ul>
