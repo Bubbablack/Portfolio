@@ -35,10 +35,10 @@ For raw project instructions see: https://raw.githubusercontent.com/Umuzi-org/te
 ![](https://lh3.googleusercontent.com/gR_ZtsPmvHWsoEw4xDio5q5p_VZ0sUSG0EoWXPS0fwFUwpELh_aOc3baKR-6KBxvWH79uUArxR5Bc7-N5YBhZiSr7jSX2ogebf_yWX70_X8h-iVgNbUbOeIYnK3dh2dyhzzu8GYjEg=w2400)
 
 ![](https://lh3.googleusercontent.com/uNFqEiCWMAaS1a8lnQy9qK9a0JNp9iOdl0JDfBvevFu07ymwIvzYqhF7p7HGwJoPNUgnDJhu7tewfwJy1vX-M2x3LbEP6MCSJpiqvXSUT3NWcP4AJBthI95oZ162LvgKODs-e3HBAw=w2400)
-
-![](https://lh3.googleusercontent.com/xtfoP5pUD4nZTAIDT3NX4hcyngin9wo1KDVuaTQJ_SfTswUPp-VKHcJlRjwphT5ap6QS2rqsmTuSXBjttSosu0bQUecS-Ca6WRH1cbyAKUHSbMywZuBhVn4ut7sG4jhtP07glOOxnA=w2400)
+![](https://lh3.googleusercontent.com/XIodawGKJG5gO01l3dP4F9Pv0MG2TAmXzchigPmDlT5RrAQUmarU2ojNpVCjzTykxusBTmiFGSz8c9GT0ZxPK9mKecnu1jCHNCxRtYa6xZYD03Vj5UvpNpRIKxVAgQRzIXnqQ61ryQ=w2400)
 
 ### Model Evaluation & Conclusion
-![](https://lh3.googleusercontent.com/XIodawGKJG5gO01l3dP4F9Pv0MG2TAmXzchigPmDlT5RrAQUmarU2ojNpVCjzTykxusBTmiFGSz8c9GT0ZxPK9mKecnu1jCHNCxRtYa6xZYD03Vj5UvpNpRIKxVAgQRzIXnqQ61ryQ=w2400)
+
+![](https://lh3.googleusercontent.com/xtfoP5pUD4nZTAIDT3NX4hcyngin9wo1KDVuaTQJ_SfTswUPp-VKHcJlRjwphT5ap6QS2rqsmTuSXBjttSosu0bQUecS-Ca6WRH1cbyAKUHSbMywZuBhVn4ut7sG4jhtP07glOOxnA=w2400)
 
 ![](https://lh3.googleusercontent.com/Cs_wtw8s2xc12ityinLULza0PUidGn3N-KzKCYq4exrlJNRlaiBCGlMw3EIQh2w4DwMATgQ40rQEbidOd4i-8HJP2xSea-OtGdhD-WWA2Z69dyTcuyr63zIHopOO-zgAj4-iTeo_ng=w2400)
