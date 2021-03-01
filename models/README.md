@@ -3,7 +3,7 @@
 
 ###  [Simple Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/models/multivariate-linear-regression-predict-salary)
 <details>
-<summary> Key concepts covered</summary>
+  <summary><b>Key concepts covered</b></summary>
   <ul>
     <li>Data cleaning</li>
     <li>Exploritory data analysis</li>
@@ -12,9 +12,9 @@
   </ul>
 </details>
 
-###  [Multivariate Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/models/multivariate-linear-regression-predict-salary)<br>
+###  [Multivariate Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/models/multivariate-linear-regression-predict-salary)
 <details>
-<summary> Key concepts covered</summary>
+<summary><b> Key concepts covered</b></summary>
   <ul>
     <li>Data cleaning</li>
     <li>Exploritory data analysis</li>
@@ -25,9 +25,9 @@
   </ul>
 </details>
 
-###  [Logistic Regression Predict Credit Card Aprovals](https://github.com/Bubbablack/Portfolio/tree/main/models/Kevin-Mntambo-252-predict-credit-card-approvals-python)<br>
+###  [Logistic Regression Predict Credit Card Aprovals](https://github.com/Bubbablack/Portfolio/tree/main/models/Kevin-Mntambo-252-predict-credit-card-approvals-python)
 <details>
-<summary> Key concepts covered</summary>
+  <summary><b> Key concepts covered</b></summary>
   <ul>
     <li>missing value imputation</li>
     <li>Exploritory data analysis</li>
