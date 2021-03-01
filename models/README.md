@@ -11,6 +11,7 @@
     <li>Model evaluation</li>
   </ul>
 </details>
+
 ###  [Multivariate Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/models/multivariate-linear-regression-predict-salary)<br>
 <details>
 <summary> Key concepts covered</summary>
@@ -35,9 +36,3 @@
     <li>Model evaluation</li>
   </ul>
 </details>
-##### Key concepts covered : 
-* 
-* Exploritory data analysis
-* 
-* Fitting a model (logistic regression model)
-* Model evaluation
