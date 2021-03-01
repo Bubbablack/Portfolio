@@ -16,10 +16,10 @@ This project is part of my Umuzi data science bootcamp I had attended from March
 
 ##### key sections
 
-* [data cleanin](#Data-Cleaning)
+* [Data Cleaning](#Data-Cleaning)
 * [Exploritory Data Analysis](#Exploritory-Data-Analysis)
-* [model evaluation](#Model-Evaluation)
-* [conclusion](#Conclusion)
+* [Model Evaluation](#Model-Evaluation)
+* [Conclusion](#Conclusion)
 
 For raw project instructions see: https://raw.githubusercontent.com/Umuzi-org/tech-department/master/content/projects/data-science-specific/cross-validation-and-simple-linear-regression/_index.md
 
