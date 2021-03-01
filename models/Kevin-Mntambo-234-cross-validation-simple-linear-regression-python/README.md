@@ -16,7 +16,7 @@ This project is part of my Umuzi data science bootcamp I had attended from March
 
 ##### key sections
 
-* [feature selection](#feature-selection)
+* [feature selection](#Data-Cleaning)
 * [model evaluation](#model-evaluation)
 * [conclusion](#conclusion)
 
