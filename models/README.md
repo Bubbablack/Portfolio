@@ -6,6 +6,7 @@
 * Data cleaning
 * Exploritory data analysis
 * Feature selection
+* One hot encoding
 * Fitting a model (multivariate linear regression model)
 * Model evaluation
 
