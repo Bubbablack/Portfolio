@@ -2,26 +2,42 @@
 # Modeling projects
 
 ###  [Simple Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/models/multivariate-linear-regression-predict-salary)<br>
-##### Key concepts covered : 
-* Data cleaning
-* Exploritory data analysis
-* Fitting a model (simple linear regression model)
-* Model evaluation
-
+<details>
+<summary> Key concepts covered</summary>
+  <ul>
+    <li>Data cleaning</li>
+    <li>Exploritory data analysis</li>
+    <li>Fitting a model (Simple linear regression model)</li>
+    <li>Model evaluation</li>
+  </ul>
+</details>
 ###  [Multivariate Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/models/multivariate-linear-regression-predict-salary)<br>
-##### Key concepts covered : 
-* Data cleaning
-* Exploritory data analysis
-* Feature selection
-* One hot encoding
-* Fitting a model (multivariate linear regression model)
-* Model evaluation
-
+<details>
+<summary> Key concepts covered</summary>
+  <ul>
+    <li>Data cleaning</li>
+    <li>Exploritory data analysis</li>
+    <li>Feature selection</li>
+    <li>One hot encoding</li>
+    <li>Fitting a model (multivariate linear regression model)</li>
+    <li>Model evaluation</li>
+  </ul>
+</details>
 
 ###  [Logistic Regression Predict Credit Card Aprovals](https://github.com/Bubbablack/Portfolio/tree/main/models/Kevin-Mntambo-252-predict-credit-card-approvals-python)<br>
+<details>
+<summary> Key concepts covered</summary>
+  <ul>
+    <li>missing value imputation</li>
+    <li>Exploritory data analysis</li>
+    <li>label encoding</li>
+    <li>Fitting a model (logistic regression model)</li>
+    <li>Model evaluation</li>
+  </ul>
+</details>
 ##### Key concepts covered : 
-* missing value imputation
+* 
 * Exploritory data analysis
-* label encoding
+* 
 * Fitting a model (logistic regression model)
 * Model evaluation
