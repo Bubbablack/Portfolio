@@ -27,6 +27,8 @@ For raw project instructions see: https://raw.githubusercontent.com/Umuzi-org/te
 ### Data Cleaning 
 ![](https://lh3.googleusercontent.com/U_m1L8UZIn9DIkaKEhAIav0KfSbVM_pTX7oezbaGzTE4fClXQN0ZlF7XnufqGeVSUs-RiYU7mt0GF7OYzV9ug5-1-uf35SGje5hFDWQwiVVXOXOyx5zanTjo53PTlQvRJbT7UDRNvw=w2400)
 
+Salary is the dependent variable we want to predict , which means all the other columns are potential independent variable .However for this project we are only interested in years worked as a feature.
+
 ![](https://lh3.googleusercontent.com/wAuG_x4mxh9-85kYuwT94apLXsJhPJh_9xVuJJDcf51tV5kUORriY5zBwePJhIXiOP0VA_C0qnEhvkiTDfOEjDUnCt4qluYMBCDKI3u3tAltxkVqPuFf6nDNBPKiKuKiOVLMdaRpvA=w2400)
 
 There is one missing value under the salary column
