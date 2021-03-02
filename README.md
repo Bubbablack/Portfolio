@@ -6,4 +6,5 @@ during my time there I used the agile framwork and the TDD method to complete my
 
 ## Index
 * [Modeling projects](/models)<br>
-* [Exploritory data anylysis](/exploritory/)
+* [Exploritory data anylysis](/exploritory/)<br>
+* [Katas](/katas)
