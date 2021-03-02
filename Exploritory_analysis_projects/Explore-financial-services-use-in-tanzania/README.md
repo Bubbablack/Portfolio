@@ -6,9 +6,9 @@ We look at the at the use of financial services in Tanzania, whereby we use grap
 
 #### Key Sections 
 * [Data Cleaning](#Data_Cleaning)
-* [Exploritory Analysis](#Exploritory_Analysis)
-  * [Mobile Money classification](#Mobile_Money_Classification)
-  * [Frequency Of Mobile Money Use](#Frequency_Of_Mobile_Money_Use)
+* [Exploritory Analysis](#Exploritory-Analysis)
+  * [Mobile Money classification](#Mobile-Money-Classification)
+  * [Frequency Of Mobile Money Use](#Frequency-Of-Mobile-Money-Use)
   * [Distribution](#Distribution)
 * [Conclusion](#Conclusion)
 
