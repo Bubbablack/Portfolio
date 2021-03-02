@@ -1,0 +1,17 @@
+SELECT * FROM Customers;
+SELECT FirstName FROM Customers;
+SELECT FirstName FROM Customers WHERE CustomerID=1;
+UPDATE Customers SET FirstName = 'Lerato', LastName= 'Mabitso' WHERE CustomerID = 1;
+DELETE FROM Customers WHERE CustomerID = 2;
+SELECT COUNT(OrderID), Status FROM Orders GROUP BY Status;
+SELECT MAX(Amount) FROM Payments; 
+SELECT * FROM Customers ORDER BY Country;
+SELECT * FROM Products WHERE BuyPrice BETWEEN 100 AND 600;
+SELECT * FROM Customers WHERE Country = 'Germany' AND City = 'Berlin' ;
+SELECT * FROM Customers WHERE City IN('Cape Town', 'Durban');
+SELECT * FROM Products WHERE BuyPrice > 500;
+SELECT SUM(Amount) FROM Payments;
+SELECT COUNT(Status) FROM Orders WHERE Status = 'Shipped';
+SELECT AVG(BuyPrice), AVG(BuyPrice)*12 AS AvarageDollar FROM Products;
+SELECT * FROM Payments INNER JOIN Customers ON Payments.CustomerID = Customers.CustomerID;
+SELECT * FROM Products WHERE Description LIKE '%Turnable front wheels%';
