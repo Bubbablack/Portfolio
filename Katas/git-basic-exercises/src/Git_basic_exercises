@@ -1,0 +1,121 @@
+1.mkdir git-basic-exercises 
+
+2.cd git-basic-exercises
+
+3.ls -a
+
+4.git init 
+ls -a
+yes i can see the diference there is now a .git file
+
+5.git status
+
+6.touch README.md
+ls -a 
+git status
+
+7.git log
+
+8.git add "REAdME.md"
+
+9.git status
+yes i can see the diference files are now green
+
+10.git reset  "README.md"
+
+11. git add "README.md"
+git commit -m "initial commit"
+
+12. git log
+
+more commits
+
+1. nano README.md 
+ctrlx
+
+2.cat README.md 
+
+3. git status
+
+4.git commit -m "secound commit"
+
+5. echo "add som iesh" >README.md
+git commit -m "third commit"
+
+
+check this out 
+
+1.git log
+
+3.git checkout 89a38e87075050a03507661bf59a1bd1f91e6f7a
+
+4.cat README.md
+
+5.git checkout master
+
+6. cat README.md
+
+Branching
+
+1.git branch
+
+2.git branch milkshake-flavours
+
+3.git branch
+
+4.git checkout milkshake-flavours
+
+5.git branch
+yes the '*' shows current git repository we are working on
+
+6.git add "milkshake-flavours"
+git commit -m "added initial flavours"
+
+7. git log
+
+8.git checkout master
+
+9.git branch
+
+10.git log
+
+11. git branch history
+
+12.git checkout history
+
+13.git log
+
+14.history> history.txt
+
+15.git add history.txt
+
+16.git commit -m "added history"
+
+17.git log
+
+18.git checkout milkshake-flavours
+ git log
+
+19.echo "yuppapapa" >README.md
+
+20.it commit -m "random readme changes"
+
+21. git add README.md
+
+22.git commit -m "random readme changes"
+
+23.git checkout history
+
+24.cat README.md
+
+25.rm README.md echo"booya" >README.md
+
+26.git add README.md
+
+27. git commit -m "rewrote readme"
+
+28.git checkout master
+
+GitHub
+
+1
