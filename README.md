@@ -5,6 +5,6 @@ I started mu coding journey when I was invited for a coding  bootcamp  at umuzi 
 during my time there I used the agile framwork and the TDD method to complete my projects.
 
 ## Index
-* [Modeling projects](/models)<br>
-* [Exploritory data anylysis](/exploritory/)<br>
-* [Katas](/katas)
+* [Modeling projects](/modeling_projects)<br>
+* [Exploritory data anylysis](/exploritory_analysis_projects)<br>
+* [Katas](/programing_katas)
