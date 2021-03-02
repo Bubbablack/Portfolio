@@ -1,7 +1,7 @@
 
 # Modeling projects
 
-####  [Simple Linear Regression Predict employee salary](/Cross-validation-simple-linear-regression-predict-salary)
+####  [Simple Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/Modeling_projects/Cross-validation-simple-linear-regression-predict-salary)
 <b>Key concepts covered</b>
     <ul>
     <li>Data cleaning</li>
