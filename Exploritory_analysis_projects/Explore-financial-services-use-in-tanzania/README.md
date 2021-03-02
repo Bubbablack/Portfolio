@@ -7,7 +7,7 @@ We look at the at the use of financial services in Tanzania, whereby we use grap
 #### Key Sections 
 * [Data Cleaning](Data_Cleaning)
 * [Exploritory Analysis](Exploritory_Analysis)
-  * [Mobile Money classification](Mobile_Money_classification)
+  * [Mobile Money classification](Mobile_Money_Classification)
   * [Frequency Of Mobile Money Use](Frequency_Of_Mobile_Money_Use)
   * [Distribution](Distribution)
 * [Conclusion](Conclusion)
@@ -20,7 +20,7 @@ For raw project instructions see: https://raw.githubusercontent.com/Umuzi-org/te
 
 ## Exploritory Analysis
 
-####  Mobile Money classification
+####  Mobile Money Classification
 ![](https://lh3.googleusercontent.com/B1qkhH_2LvKrSojujYXPQRjvCmT6cNEnU1cvQfVeyampnVDAhgjEyw-i_iPFC_FxVpCEYNc5j3Su81MqxMKtT1DvydMVoZWKby_3ycEP5e5AuOTWrMAfn1GzJ0vdOyeuMdta772S=w2400)
 
 ![](https://lh3.googleusercontent.com/F9U66UuHecS7btd0mjO6pZZvt3gG4ap0Lx2M0dIcQJxIBlkVwqFbMFL71O3CmD6asxBhL_jS1qrKpYWF0Va0RCTfVTTSGfT4yp5SJSbDkkE_MW8gGZteDt6AfYfEUB619FbRoUta=w2400)
