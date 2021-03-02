@@ -10,7 +10,7 @@
     <li>Model evaluation</li>
   </ul>
 
-####  [Multivariate Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/models/multivariate-linear-regression-predict-salary)
+####  [Multivariate Linear Regression Predict employee salary](https://github.com/Bubbablack/Portfolio/tree/main/Modeling_projects/Logistic-regression-predict-credit-card-approvals)
 <b> Key concepts covered</b>
   <ul>
     <li>Data cleaning</li>
