@@ -19,9 +19,9 @@ First, we will be converting all the non-numeric values into numeric ones. We do
 
 ![](https://lh3.googleusercontent.com/awVG0zTwoYPdqbIcLfIa3RMnU6-3Nm_SAraVs9pnm3somOcKVjXhPOPvtKXvsEs8YtAwm93ZGv-tGS_CIBwOWlBar_u9wxhTjyS5PXjZXegiH3ExfthHQ9q2ygb2MHgKDEutcijN-Q=w2400)
 ![](https://lh3.googleusercontent.com/N2hjbqycZFegLghUQ6TEROcaoqeT9C4EVWKUHq2rbhcZLrvQVXHuC4-Wo4hIKxoQ6nhz540x7hLZRzMcfLsc2sL4FmOclnOVJhGohNRkADNz255nQ2wBqpohddInhvxdVhsbyCfmQg=w2400)
-![](https://lh3.googleusercontent.com/fXORs8DDOxlNX1oBjQsyvWgSGsPKQ4-xMnBsQGQ712ASE6cRW9TOkS6qCCblaIYiz8qN_TF3oXGFuJv-RVoKgAWBYcyVY8kUDLlJ3VDuTwKAda9BQor-Uj3SAK26tyOFk6Bnq2o9Ng=w2400)
+
 ![](https://lh3.googleusercontent.com/YqTQfIxJnvZhEHbfD_PyufQyKaSVe0D_1CwUUwIsDjzhz9N-aITUeqRcuPWfJoTtTqQJMyS81IGuLVPE755ccPQShaFbffViqtiLxPNgNdhSS65pWsDK7_6fxcbg39bQDu5yIE5PMQ=w2400)
-![](https://lh3.googleusercontent.com/Q4QG35vODlbNTcZ5Fw9fLJh58bvDveqBmM6oIutqRam1Us4Tc8vKKp7YYn6AdIAt-h1Wm-Y3f1kh0ilNTPYofW7-6B7M5y0dE-Uo8WTREHTknrORU18WQxnjPdSG92G0nsNQh5fFGw=w2400)
+
 ### Model Evaluation
 We will now evaluate our model on the test set with respect to classification accuracy. But we will also take a look the model's confusion matrix. In the case of predicting credit card applications, it is equally important to see if our machine learning model is able to predict the approval status of the applications as denied that originally got denied. If our model is not performing well in this aspect, then it might end up approving the application that should have been approved. The confusion matrix helps us to view our model's performance from these aspects.
 
