@@ -18,6 +18,7 @@ First, we will be converting all the non-numeric values into numeric ones. We do
 
 
 ![](https://lh3.googleusercontent.com/awVG0zTwoYPdqbIcLfIa3RMnU6-3Nm_SAraVs9pnm3somOcKVjXhPOPvtKXvsEs8YtAwm93ZGv-tGS_CIBwOWlBar_u9wxhTjyS5PXjZXegiH3ExfthHQ9q2ygb2MHgKDEutcijN-Q=w2400)
+
 ![](https://lh3.googleusercontent.com/N2hjbqycZFegLghUQ6TEROcaoqeT9C4EVWKUHq2rbhcZLrvQVXHuC4-Wo4hIKxoQ6nhz540x7hLZRzMcfLsc2sL4FmOclnOVJhGohNRkADNz255nQ2wBqpohddInhvxdVhsbyCfmQg=w2400)
 
 ![](https://lh3.googleusercontent.com/YqTQfIxJnvZhEHbfD_PyufQyKaSVe0D_1CwUUwIsDjzhz9N-aITUeqRcuPWfJoTtTqQJMyS81IGuLVPE755ccPQShaFbffViqtiLxPNgNdhSS65pWsDK7_6fxcbg39bQDu5yIE5PMQ=w2400)
