@@ -19,26 +19,24 @@ First, we will be converting all the non-numeric values into numeric ones. We do
 
 ![](https://lh3.googleusercontent.com/awVG0zTwoYPdqbIcLfIa3RMnU6-3Nm_SAraVs9pnm3somOcKVjXhPOPvtKXvsEs8YtAwm93ZGv-tGS_CIBwOWlBar_u9wxhTjyS5PXjZXegiH3ExfthHQ9q2ygb2MHgKDEutcijN-Q=w2400)
 
-![](https://lh3.googleusercontent.com/N2hjbqycZFegLghUQ6TEROcaoqeT9C4EVWKUHq2rbhcZLrvQVXHuC4-Wo4hIKxoQ6nhz540x7hLZRzMcfLsc2sL4FmOclnOVJhGohNRkADNz255nQ2wBqpohddInhvxdVhsbyCfmQg=w2400)
-
 ![](https://lh3.googleusercontent.com/YqTQfIxJnvZhEHbfD_PyufQyKaSVe0D_1CwUUwIsDjzhz9N-aITUeqRcuPWfJoTtTqQJMyS81IGuLVPE755ccPQShaFbffViqtiLxPNgNdhSS65pWsDK7_6fxcbg39bQDu5yIE5PMQ=w2400)
 
 ### Model Evaluation
 
-Accuracy of logistic regression classifier:  0.8377192982456141
+##### Accuracy of logistic regression classifier:  0.8377192982456141
 
 We will now evaluate our model on the test set with respect to classification accuracy. But we will also take a look the model's confusion matrix. In the case of predicting credit card applications, it is equally important to see if our machine learning model is able to predict the approval status of the applications as denied that originally got denied. If our model is not performing well in this aspect, then it might end up approving the application that should have been approved. The confusion matrix helps us to view our model's performance from these aspects.
 
 
 
-array([[92, 11],
-       [26, 99]])
+##### array([[92, 11], [26, 99]])
+
 
 For the confusion matrix, the first element of the of the first row of the confusion matrix denotes the true negatives meaning the number of negative instances (denied applications) predicted by the model correctly. And the last element of the second row of the confusion matrix denotes the true positives meaning the number of positive instances (approved applications) predicted by the model correctly.
 
 We will instantiate GridSearchCV() with our earlier logreg model with all the data we have. Instead of passing train and test sets separately, we will supply X (scaled version) and y. We will also instruct GridSearchCV() to perform a cross-validation of five folds.
 
-Best: 0.853623 using {'max_iter': 100, 'tol': 0.01}
+##### Best: 0.853623 using {'max_iter': 100, 'tol': 0.01}
 
 ### Conclusion
 
