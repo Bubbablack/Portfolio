@@ -12,7 +12,7 @@
 
 ## Prioject summary
 
-This project is part of my Umuzi data science bootcamp I had attended from March 2020 until February 2021, The main aim of the task was to use multivarient linear regression to predict the salary of individuals using dependent variables in the data set like years of experiance ,field of work and others.Below find the key findings of the project.
+This project is part of my Umuzi data science bootcamp I had attended from March 2020 until February 2021, The main aim of the task was to use linear regression to predict the salary of individuals using the dependent variable (Yearsworked) in the data set like years of experiance .Below find the key findings of the project where i have further summarized the main pointts of my findings.
 
 ##### key sections
 
@@ -27,24 +27,16 @@ For raw project instructions see: https://raw.githubusercontent.com/Umuzi-org/te
 ### Data Cleaning 
 ![](https://lh3.googleusercontent.com/U_m1L8UZIn9DIkaKEhAIav0KfSbVM_pTX7oezbaGzTE4fClXQN0ZlF7XnufqGeVSUs-RiYU7mt0GF7OYzV9ug5-1-uf35SGje5hFDWQwiVVXOXOyx5zanTjo53PTlQvRJbT7UDRNvw=w2400)
 
-Salary is the dependent variable we want to predict , which means all the other columns are potential independent variable .However for this project we are only interested in years worked as a feature.
+Salary is the dependent variable we want to predict ,all the other columns are potential independent variable however for this project we are only interested in years worked as a feature.
 
 ![](https://lh3.googleusercontent.com/wAuG_x4mxh9-85kYuwT94apLXsJhPJh_9xVuJJDcf51tV5kUORriY5zBwePJhIXiOP0VA_C0qnEhvkiTDfOEjDUnCt4qluYMBCDKI3u3tAltxkVqPuFf6nDNBPKiKuKiOVLMdaRpvA=w2400)
 
-There is one missing value under the salary column
-
-The missing values are replaced with the mean of all the values in that column.
-
-We use the mean becuase salary has continues numerical values .Ideally we don't want to lose any information that can help us analyze or create a better a model, and so if the particular feature like salary is numerical and continueos, we can replace with the mean becuase, no matter how many times we add the mean it still gets conserved,it doesn't change, for none numeric and/or discrete features however we would have to drop the values or replace them with a placeholder.
+There is one missing value under the salary column, therefore, the missing values are replaced with the mean of all the values in that column.
 
 ![](https://lh3.googleusercontent.com/XIodawGKJG5gO01l3dP4F9Pv0MG2TAmXzchigPmDlT5RrAQUmarU2ojNpVCjzTykxusBTmiFGSz8c9GT0ZxPK9mKecnu1jCHNCxRtYa6xZYD03Vj5UvpNpRIKxVAgQRzIXnqQ61ryQ=w2400)
 
 
-There are two extreme values in the salary column.
-
-
-The extreme values are removed, because extreme values are unlikely observations in a dataset,if not removed extreme values may cause overfitting, as they do not represent what is typical for that data set.Extreme values tend to streach the mean to one direction , whereby the mean then no longer represents the distribution of the majaority of the data point which in turn makes the model poorly when given new data.
-
+There are two extreme values in the salary column.The extreme values are removed, because extreme values are unlikely observations in a dataset,if not removed extreme values may cause overfitting, as they do not represent what is typical for that data set.
 
 ### Exploritory Data Analysis
 
@@ -56,29 +48,28 @@ The distributions are posetively skewed.This means the majority of the values li
 ![](https://lh3.googleusercontent.com/uNFqEiCWMAaS1a8lnQy9qK9a0JNp9iOdl0JDfBvevFu07ymwIvzYqhF7p7HGwJoPNUgnDJhu7tewfwJy1vX-M2x3LbEP6MCSJpiqvXSUT3NWcP4AJBthI95oZ162LvgKODs-e3HBAw=w2400)
 
 
-We can draw a line of best fit that is not curved , which confirms that there is a linear nomial relationship exists between years worked and salary. therefore this confirms using linear regression to model this would work. It is a positive and modearte association.
+ There is a linear nomial relationship between years worked and salary,We can draw a line of best fit that is not curved  therefore we can use linear regression to model this relationship.
 
 ### Model Evaluation
-
+#### OLS model summary
 ![](https://lh3.googleusercontent.com/xtfoP5pUD4nZTAIDT3NX4hcyngin9wo1KDVuaTQJ_SfTswUPp-VKHcJlRjwphT5ap6QS2rqsmTuSXBjttSosu0bQUecS-Ca6WRH1cbyAKUHSbMywZuBhVn4ut7sG4jhtP07glOOxnA=w2400)
 
 
-The null hypothesis states that there is no relationship between the two variables being studied (salary and years worked). It states that the results are due to chance and are not significant in that one does not affect the other.
-
-A p-value is a measure of the probability that an observed difference could have occurred just by random chance. A p-value less than 0.05 is considered strong evidence against the null hypothesis since there is less than a 5% probability that the null hypothesis is correct and the results are random.
-
 Years worked is a significant feature since the p value is 0 (less than .05), therefore we can reject the null hypothesis and conclude that there is a correlation between years worked and salary.
 
-R-squared tells us that 39% of varience in employee salaries are accounted for by number of years worked.
+39% of varience in employee salaries are accounted for by number of years worked.
 
-The unstandardized coefficient, tells us that for every year worked ,an employee's salary increases by about 809.3844.
+For every year worked ,we can expect an employee's salary to increas by about 809.3844.
 
-The 95% interval tells us that we can be 95% confident that the coeficiant or constant change in salary per year worked, lies between 703.980 and 914.789, and since the coeficeiant of our model is 809.3844, this is further confirmation on the validity of the model, and we can more confidently reject the null hypothesize.
+We can be 95% confident that the coeficiant or constant change in salary per year worked, lies between 703.980 and 914.789, and since the coeficeiant of our model is 809.3844, this is further confirmation on the validity of the model, and we can more confidently reject the null hypothesize.
 
+The difference between the two RMSE's is very small , less than 1.5 percent (1.3279012795801126) , therfore we can conclude that our model is not overfitting since , the test model does not perform that much diferently from the training model.
 
 
 ### conclusion
-The difference between the RMSE of the training data and that of the test data :  1.3279012795801126
-The difference between the two RMSE's is very small , less than 1.5 percent , therfore we can conclude that our model is not overfitting since , the test model does not perform that much diferently from the training model.
+Although significant ,The predicting power of this model is just too low (39%), to be reliably used in any decision making proccess This would have to be a tool used in conjucture with other tools and research . 
+
 
 ![](https://lh3.googleusercontent.com/Cs_wtw8s2xc12ityinLULza0PUidGn3N-KzKCYq4exrlJNRlaiBCGlMw3EIQh2w4DwMATgQ40rQEbidOd4i-8HJP2xSea-OtGdhD-WWA2Z69dyTcuyr63zIHopOO-zgAj4-iTeo_ng=w2400)
+
+There is an orportunity to improve the model by using multivarient linear regression as salary corelates with many other features besides years work,including these features may improve the predicting power and therefore usefulness of this model.
