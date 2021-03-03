@@ -25,14 +25,17 @@ For raw project instructions see: https://raw.githubusercontent.com/Umuzi-org/te
 
 
 ### Data Cleaning 
+##### Snapshot Of The Data
 ![](https://lh3.googleusercontent.com/U_m1L8UZIn9DIkaKEhAIav0KfSbVM_pTX7oezbaGzTE4fClXQN0ZlF7XnufqGeVSUs-RiYU7mt0GF7OYzV9ug5-1-uf35SGje5hFDWQwiVVXOXOyx5zanTjo53PTlQvRJbT7UDRNvw=w2400)
 
 Salary is the dependent variable we want to predict ,all the other columns are potential independent variable however for this project we are only interested in years worked as a feature.
 
+##### Missing Values By Column
 ![](https://lh3.googleusercontent.com/wAuG_x4mxh9-85kYuwT94apLXsJhPJh_9xVuJJDcf51tV5kUORriY5zBwePJhIXiOP0VA_C0qnEhvkiTDfOEjDUnCt4qluYMBCDKI3u3tAltxkVqPuFf6nDNBPKiKuKiOVLMdaRpvA=w2400)
 
 There is one missing value under the salary column, therefore, the missing values are replaced with the mean of all the values in that column.
 
+###### Box and Whisker / Ectreme value detection
 ![](https://lh3.googleusercontent.com/XIodawGKJG5gO01l3dP4F9Pv0MG2TAmXzchigPmDlT5RrAQUmarU2ojNpVCjzTykxusBTmiFGSz8c9GT0ZxPK9mKecnu1jCHNCxRtYa6xZYD03Vj5UvpNpRIKxVAgQRzIXnqQ61ryQ=w2400)
 
 
@@ -40,18 +43,19 @@ There are two extreme values in the salary column.The extreme values are removed
 
 ### Exploritory Data Analysis
 
-
+##### Distribution of Salary and Yearsworked
 ![](https://lh3.googleusercontent.com/gR_ZtsPmvHWsoEw4xDio5q5p_VZ0sUSG0EoWXPS0fwFUwpELh_aOc3baKR-6KBxvWH79uUArxR5Bc7-N5YBhZiSr7jSX2ogebf_yWX70_X8h-iVgNbUbOeIYnK3dh2dyhzzu8GYjEg=w2400)
 
 The distributions are posetively skewed.This means the majority of the values lies in the lower half of the distribution.
 
+##### Scatter plot : salary vs yearsworked
 ![](https://lh3.googleusercontent.com/uNFqEiCWMAaS1a8lnQy9qK9a0JNp9iOdl0JDfBvevFu07ymwIvzYqhF7p7HGwJoPNUgnDJhu7tewfwJy1vX-M2x3LbEP6MCSJpiqvXSUT3NWcP4AJBthI95oZ162LvgKODs-e3HBAw=w2400)
 
 
  There is a linear nomial relationship between years worked and salary,We can draw a line of best fit that is not curved  therefore we can use linear regression to model this relationship.
 
 ### Model Evaluation
-#### OLS model summary
+##### OLS model summary
 ![](https://lh3.googleusercontent.com/xtfoP5pUD4nZTAIDT3NX4hcyngin9wo1KDVuaTQJ_SfTswUPp-VKHcJlRjwphT5ap6QS2rqsmTuSXBjttSosu0bQUecS-Ca6WRH1cbyAKUHSbMywZuBhVn4ut7sG4jhtP07glOOxnA=w2400)
 
 
