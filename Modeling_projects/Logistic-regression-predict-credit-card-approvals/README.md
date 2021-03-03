@@ -45,4 +45,4 @@ We have instantiate GridSearchCV() with our earlier logreg model with all the da
 While building this credit card predictor, we tackled some of the most widely-known preprocessing steps such as scaling, label encoding, and missing value imputation. We finished with some machine learning to predict if a person's application for a credit card would get approved or not given some information about that person.
 
 Points of improvemt: ROC curves can be used in future to give more clarity and visualise the models performance .
-According To the clients descretion we The threshold of the model can be tweaked  towards having less false posetives , This will probably increase the number of false negetives as well, However in a case like this one , we would rather reject more people but insure that the right people are aproved.
+According to the clients descretion we. The threshold of the model can be tweaked  towards having less false posetives , This will probably increase the number of false negetives as well, However in a case like this one , we would rather reject more people but insure that the right people are aproved.
