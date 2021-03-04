@@ -2,8 +2,8 @@
 
 ## Project Summary
 #### Key Sections
-* Data Wrangling
-* Conclusion
+* [Data Wrangling](#Data-Wrangling)
+* [Conclusion](#Conclusion)
 
 For raw project instructions see: https://raw.githubusercontent.com/Umuzi-org/tech-department/master/content/projects/data-science-specific/data-wrangling/index.md
 
