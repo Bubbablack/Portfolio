@@ -5,7 +5,7 @@ We take a look at the behavior of different countries over time to help improve 
 
 #### Key Sections
 * [Data Cleaning](#Data-Cleaning)
-* [Exploritory Analysis](# Exploritory-Analysis)
+* [Exploritory Analysis](#Exploritory-Analysis)
   * [Carbon Emsissions over time](Carbon-Emsissions-over-time)
   * [Area Coverage](Area-Coverage)
 * [Conclusion](Conclusion)
