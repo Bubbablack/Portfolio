@@ -1,6 +1,7 @@
 # Data Wrangling Personality Test Scores
 
 ## Project Summary
+This project looks at data from applicants who took a personality test. Through the data we determine the applicants’ different personalities and identify possible high-risk individuals.
 #### Key Sections
 * [Data Wrangling](#Data-Wrangling)
 * [Conclusion](#Conclusion)
