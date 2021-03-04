@@ -1,9 +1,9 @@
 # Exploritory Analysis Projects
 
-#### [Data wrangling personality test scores](/Data-wrangling-personality-test-scores)
+#### [Data wrangling personality test scores](https://github.com/Bubbablack/Portfolio/tree/main/Exploritory_analysis_projects/Data-wrangling-personality-test-scores)
 
-#### [Explore financial services use in tanzania](/Explore-financial-services-use-in-tanzania)
+#### [Explore financial services use in tanzania](https://github.com/Bubbablack/Portfolio/tree/main/Exploritory_analysis_projects/Explore-financial-services-use-in-tanzania)
 
-#### [Statistical thinking global enviromental sustainability](/Statistical-thinking-global-enviromental-sustainability)
+#### [Statistical thinking global enviromental sustainability](https://github.com/Bubbablack/Portfolio/tree/main/Exploritory_analysis_projects/Statistical-thinking-global-enviromental-sustainability)
 
-#### [Visualisation of evolution of linux](/Visualisation-of-evolution-of-linux)
+#### [Visualisation of evolution of linux](https://github.com/Bubbablack/Portfolio/tree/main/Exploritory_analysis_projects/Visualisation-of-evolution-of-linux)
