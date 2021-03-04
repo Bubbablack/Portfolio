@@ -2,14 +2,11 @@
 
 ## Project summary
 ![](https://img.shields.io/badge/python-3.0.8-blue)
-![](https://img.shields.io/badge/jupyter-1.0.0-blue)
-![](https://img.shields.io/badge/matplotlib-3.0.3-blue)
+![](https://img.shields.io/badge/notebook-5.1.0-blue)
 ![](https://img.shields.io/badge/numpy-1.16.2-blue)
 ![](https://img.shields.io/badge/pandas-0.24.0-blue)
-![](https://img.shields.io/badge/scikit-learn-0.20.3-blue)
 ![](https://img.shields.io/badge/scipy-1.2.1-blue)
-![](https://img.shields.io/badge/seaborn-0.9.0-blue)
-![](https://img.shields.io/badge/statsmodels-0.9.0-blue)
+![](https://img.shields.io/badge/scikit-learn-0.19.1-blue)
 
 
 Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this notebook, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
