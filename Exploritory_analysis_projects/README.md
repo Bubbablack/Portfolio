@@ -1,4 +1,4 @@
-# Exploritory Analysis Projects
+# Exploratory Analysis Projects
 
 #### [Data wrangling personality test scores](https://github.com/Bubbablack/Portfolio/tree/main/Exploritory_analysis_projects/Data-wrangling-personality-test-scores)
 
