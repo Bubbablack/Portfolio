@@ -5,5 +5,5 @@ I started my coding journey when I was invited for a coding bootcamp at Umuzi an
 
 ## Index
 * [Modeling projects](/Modeling_projects)<br>
-* [Exploritory data anlysis](/Exploritory_analysis_projects)<br>
+* [Exploratory data anlysis](/Exploritory_analysis_projects)<br>
 * [Programing katas](/Programing_katas)
